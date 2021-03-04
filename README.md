@@ -16,3 +16,8 @@ You can download the webdriver for your favourite browser.
 
 Please remenber to check the version of your browser and also the driver.
 
+
+Remenber to install the dependencies using the following command. The requirements.txt file has all the neccesary pakages to be installed.
+
+```pip install -r requirements.txt```
+
