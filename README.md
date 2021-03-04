@@ -6,7 +6,13 @@ You can get more imformation about selenium from here : https://www.selenium.dev
 
 To run selenium the webdrivers are very neccesary
 You can download the webdriver for your favourite browser.
+
+
 **CHROMEDRIVER** : https://chromedriver.chromium.org/
+
 **FIREFOX** : https://developer.mozilla.org/en-US/docs/Web/WebDriver
+
+
+
 Please remenber to check the version of your browser and also the driver.
 
