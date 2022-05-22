@@ -27,7 +27,5 @@ def main(headless=True):
     
     driver.quit() # To exit and close chrome.
    
-        
-        
-        
+          
 main()  # Specify flase to open chrome
